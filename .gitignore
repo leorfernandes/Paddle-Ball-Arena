@@ -1,0 +1,18 @@
+# Compiled class files
+/bin/
+/out/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Java temporary files
+*.class
+
+# MacOS system files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
