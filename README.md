@@ -71,12 +71,9 @@ paddle-ball-arena/
 
 ---
 
-## 🖼️ Video
+## 🖼️ Example
 
-<video autoplay loop muted playsinline width="640" height="390">
-  <source src="media/gameplay.webm" type="video/webm" />
-  Your browser does not support the video tag.
-</video>
+![Gameplay Demo](media/gameplay.gif)
 
 ---
 
